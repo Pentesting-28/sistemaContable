@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/company.js": "/company.js",
+    "/customer.js": "/customer.js",
+    "/dashboard.js": "/dashboard.js",
+    "/donation_type.js": "/donation_type.js",
+    "/layout.js": "/layout.js",
+    "/login.js": "/login.js",
+    "/role.js": "/role.js",
+    "/user.js": "/user.js",
+    "/vendors~company~customer~donation_type~layout~role~user.js": "/vendors~company~customer~donation_type~layout~role~user.js",
+    "/vendors~company~login.js": "/vendors~company~login.js",
+    "/vendors~dashboard.js": "/vendors~dashboard.js"
+}
